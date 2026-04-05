@@ -309,8 +309,13 @@ Contributions are welcome! Here's how you can help:
 
 - Solution: Modify `PERMANENT_SESSION_LIFETIME` in [app.py](app.py)
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
+**Asma Haider**
+
+- Email: [bsse23051@itu.edu.pk](malto:bsse23051@itu.edu.pk)
+- GitHub: [@BSSE23051](https://github.com/BSSE23051)
+- 
 **Najam Abbas**
 
 - Email: [uzairabdullah272004@gmail.com](malto:uzairabdullah272004@gmail.com)
@@ -322,6 +327,7 @@ For questions, issues, or suggestions:
 
 - Open an issue on GitHub
 - Email: uzairabdullah272004@gmail.com
+- Email: bsse23051@itu.edu.pk
 
 ---
 
