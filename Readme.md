@@ -313,8 +313,8 @@ Contributions are welcome! Here's how you can help:
 
 **Asma Haider**
 
-- Email: [bsse23051@itu.edu.pk](malto:bsse23051@itu.edu.pk)
-- GitHub: [@BSSE23051](https://github.com/BSSE23051)
+- Email: [asma.devux@gmail.com](malto:asma.devux@gmail.com)
+- GitHub: [@BSSE23051](https://github.com/haider-devux)
   
 **Uzair Abdullah**
 
@@ -327,7 +327,7 @@ For questions, issues, or suggestions:
 
 - Open an issue on GitHub
 - Email: uzairabdullah272004@gmail.com
-- Email: bsse23051@itu.edu.pk
+- Email: asma.devux@gmail.com
 
 ---
 
