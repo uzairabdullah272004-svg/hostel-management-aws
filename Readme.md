@@ -315,8 +315,8 @@ Contributions are welcome! Here's how you can help:
 
 - Email: [bsse23051@itu.edu.pk](malto:bsse23051@itu.edu.pk)
 - GitHub: [@BSSE23051](https://github.com/BSSE23051)
-- 
-**Najam Abbas**
+  
+**Uzair Abdullah**
 
 - Email: [uzairabdullah272004@gmail.com](malto:uzairabdullah272004@gmail.com)
 - GitHub: [@uzairabdullah272004-svg](https://github.com/uzairabdullah272004-svg)
